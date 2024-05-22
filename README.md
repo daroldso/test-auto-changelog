@@ -1,4 +1,4 @@
 # test-auto-changelog
 
 Updated
-Updated
+Updated <- fixed
