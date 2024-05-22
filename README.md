@@ -1,1 +1,3 @@
 # test-auto-changelog
+
+Updated
